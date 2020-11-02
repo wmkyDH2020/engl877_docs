@@ -13,4 +13,4 @@
 - Year: 2020
 - Special: Election Day 
 
-[link text] (##Tomorrow)
+[link text] (#Tomorrow)
